@@ -66,7 +66,7 @@ function App({ lists, addList, reOrder }) {
 		<DragDropContext onDragEnd={onDragEnd}>
 			<Container>
 				<Header>
-					<h2>Trello-Clone</h2>
+					<h2>Trello-Cloness</h2>
 					<SignOutButton>Sign out</SignOutButton>
 				</Header>
 				<Droppable
